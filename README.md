@@ -16,6 +16,7 @@ Matplotlib is a plotting library for the Python programming language and its num
 - label 
 - grid
 - subplot
+- scatter plot
 - bar chart 
   - create
   - horizontal
