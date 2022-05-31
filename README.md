@@ -8,3 +8,22 @@ Matplotlib is a plotting library for the Python programming language and its num
 - Great control of every element in a figure
 - High-quality output in many formats
 - Very customizable in general
+
+## matplotlib :
+- plotting 
+- marker
+- line
+- label 
+- grid
+- subplot
+- bar chart 
+  - create
+  - horizontal
+  - bar color 
+- Histogram
+  - create,bins
+- box plot 
+- pie
+  - legend()
+  - explode
+  - shadow 
